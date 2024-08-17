@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+// 포인터의 기본적인 문제들
+
 #if 0
 int main() {
 	int i = 2000; // 2000을 가지고 있는 i만의 주소번지 존재
